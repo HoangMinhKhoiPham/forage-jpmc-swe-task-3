@@ -22,6 +22,9 @@ Fix the client-side web application to display a continuously updating line grap
 - Continuous updates to the graph result from continuous requests and responses to and from the server.
 - The graph aggregates duplicated data retrieved from the server.
 
+<img width="561" alt="Screenshot 2024-02-27 at 3 22 07 PM" src="https://github.com/HoangMinhKhoiPham/forage-jpmc-swe-task-3/assets/97756628/3276b5a7-742f-43e5-b7b1-20120ece0048">
+
+
 ## Task 3: Live Perspective Graph Generation
 
 ### Purpose
@@ -32,6 +35,10 @@ Generate a live graph to display the data feed for traders to monitor potential 
 - The graph tracks and displays the ratio between two stock prices.
 - Upper and lower bounds are shown on the graph.
 - An alert is displayed whenever the bounds are crossed.
+
+<img width="539" alt="Screenshot 2024-02-27 at 3 21 46 PM" src="https://github.com/HoangMinhKhoiPham/forage-jpmc-swe-task-3/assets/97756628/015f02e3-6918-42a7-a0f4-cecead25040c">
+
+  
 
 ## Conclusion
 This repository showcases solutions to the tasks provided in the JPMorgan Chase Software Engineering Virtual Internship. Each task demonstrates skills in processing financial data, web application development, and live graph generation for monitoring stock prices.
